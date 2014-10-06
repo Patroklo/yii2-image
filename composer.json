@@ -1,6 +1,6 @@
 {
-    "name": "yurkinx/yii2-image",
-    "description": "Yii2 extension for image manipulating using Kohana Image Library.",
+    "name": "coderfly/yii2-image",
+    "description": "Yii2 extension for image manipulating using Kohana Image Library by Yuri Kileev.",
     "keywords": ["yii2", "extension", "image"],
     "homepage": "https://github.com/yurkinx/yii2-image",
     "type": "yii2-extension",
